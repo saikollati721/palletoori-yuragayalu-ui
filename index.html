@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#C0392B" />
+    <link rel="icon" type="image/jpeg" href="/images/logo.jpg" />
+
+    <!-- Generic SEO fallback for routes that aren't prerendered (admin, cart, etc — all noindex).
+         URL-specific tags (canonical, og:url, og:image, twitter:image) are intentionally NOT here:
+         they would duplicate the per-route Helmet tags and Google ignores duplicate canonicals.
+         Per-route SEO is rendered at build time by scripts/prerender.mjs via react-helmet-async. -->
+    <title>Palletoori Vuragayalu — Andhra Pickles, Sweets &amp; Snacks Online</title>
+    <meta name="description" content="Authentic homemade Andhra pickles, sweets &amp; karappodulu. Avakaya, Gongura, Putharekulu — cold-pressed oils, no preservatives. Order online in India." />
+    <meta name="author" content="Palletoori Vuragayalu" />
+    <!-- robots is intentionally omitted: Seo.jsx emits index/noindex per route. Duplicating
+         it here would cause conflicting directives (and Google takes the most restrictive). -->
+
+    <!-- Google Search Console site verification — must remain even after verification succeeds. -->
+    <meta name="google-site-verification" content="iR2AllF05CQDkdlew_LLR78XmjzcGKQlSnPFQoUYVtU" />
+
+    <!-- LocalBusiness / FoodEstablishment JSON-LD (site-wide) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": ["LocalBusiness", "FoodEstablishment"],
+      "@id": "https://palletoorivuragayalu.in/#business",
+      "name": "Palletoori Vuragayalu",
+      "alternateName": "Palletoori Vuragayalu Andhra Pickles",
+      "url": "https://palletoorivuragayalu.in/",
+      "logo": "https://palletoorivuragayalu.in/images/logo.jpg",
+      "image": "https://palletoorivuragayalu.in/images/logo.jpg",
+      "description": "Authentic homemade Andhra pickles, sweets, karappodulu and traditional snacks — handcrafted with cold-pressed oils and zero preservatives.",
+      "telephone": "+91-73307-56930",
+      "email": "palletoorivuragayalu@gmail.com",
+      "priceRange": "₹150 – ₹2000",
+      "servesCuisine": "Andhra, South Indian",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sivalayam Temple",
+        "addressLocality": "Tanuku",
+        "addressRegion": "Andhra Pradesh",
+        "addressCountry": "IN"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "India"
+      },
+      "openingHoursSpecification": [{
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+        "opens": "10:00",
+        "closes": "19:00"
+      }],
+      "sameAs": [
+        "https://www.instagram.com/palletoori_vuragayalu777",
+        "https://www.facebook.com/share/1EB7iQUbmm/",
+        "https://www.youtube.com/@palletoorivuragayalu1"
+      ]
+    }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

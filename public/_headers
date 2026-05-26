@@ -1,0 +1,26 @@
+# Cloudflare Pages HTTP headers.
+# See: https://developers.cloudflare.com/pages/configuration/headers/
+
+# Global — security + privacy
+/*
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=(), payment=()
+
+# Long-term caching for Vite's content-hashed assets (filename includes a hash,
+# so cache-busting is automatic — safe to cache for a year).
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Images can also be cached for a long time; if a product photo changes,
+# upload it under a new path or bust via query string.
+/images/*
+  Cache-Control: public, max-age=2592000
+
+# Crawlers should always see the latest sitemap / robots.
+/sitemap.xml
+  Cache-Control: public, max-age=3600
+/robots.txt
+  Cache-Control: public, max-age=3600

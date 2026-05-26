@@ -1,0 +1,29 @@
+# Cloudflare Pages redirects.
+# Format: <from>  <to>  <status>
+# Used to:
+#   1) Preserve SEO from URLs indexed on the WordPress site that don't map 1:1
+#   2) Tell Pages to fall back to index.html for SPA routes (last rule)
+
+# WordPress page slugs → our routes (301 to transfer link equity)
+/about-us-2/             /about         301
+/about-us-2              /about         301
+/contact-us/             /contact       301
+/contact-us              /contact       301
+/my-account/             /              301
+/my-account              /              301
+
+# Legal pages — point to home until dedicated pages exist
+/privacy-policy/         /              301
+/privacy-policy          /              301
+/shipping-policy/        /              301
+/shipping-policy         /              301
+/terms-and-conditions/   /              301
+/terms-and-conditions    /              301
+
+# SPA fallback is handled by Cloudflare Pages' built-in behavior:
+# - Static files (assets, images, robots.txt, etc.) are served directly
+# - Unknown paths return the contents of 404.html (which we build as a copy of
+#   index.html via the `postbuild` script in package.json)
+# - React Router then renders the right page based on the URL
+# Do NOT add a wildcard "/* → /" rule here — Cloudflare's drag-drop deploy
+# applies it before static-file matching, which hides assets behind index.html.

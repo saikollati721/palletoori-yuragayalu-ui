@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://palletoorivuragayalu.in/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/shop/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/logo.jpg</image:loc>
+      <image:title>Palletoori Vuragayalu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/about/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/contact/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product-category/veg-pickles/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/andhra-avakaya.jpg</image:loc>
+      <image:title>Andhra Avakaya Pickle</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product-category/nonveg-pickles/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/mutton-boneless.jpg</image:loc>
+      <image:title>Mutton Boneless Pickle</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product-category/gongura-nonveg-pickles/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/gongura-natukodi.jpg</image:loc>
+      <image:title>Gongura Natukodi Pickle</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product-category/homemade-karappodulu/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/idly-karam.jpg</image:loc>
+      <image:title>Idly Karam</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product-category/traditional-snacks/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/chakralu.jpg</image:loc>
+      <image:title>Chakralu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product-category/traditional-sweets/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/bellam-gavvalu.jpg</image:loc>
+      <image:title>Bellam Gavvalu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product-category/godavari-putharekulu/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/bellam-dryfruit-putharekulu.jpg</image:loc>
+      <image:title>Bellam Dry Fruit Putharekulu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product-category/nonveg-pickles-combo/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/nonveg-combo.jpg</image:loc>
+      <image:title>Non-Veg Pickles Combo Pack</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/andhra-avakaya-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/andhra-avakaya.jpg</image:loc>
+      <image:title>Andhra Avakaya Pickle</image:title>
+      <image:caption>The legendary raw-mango avakaya — sun-cured with mustard and red chilli.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/allam-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/allam-pickle.jpg</image:loc>
+      <image:title>Allam Pickle</image:title>
+      <image:caption>Sharp ginger pickle that wakes up plain curd-rice in seconds.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/andhra-magaya-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/magaya-pickle.jpg</image:loc>
+      <image:title>Andhra Magaya Pickle</image:title>
+      <image:caption>Grated raw mango cured with red chilli and fenugreek — a coastal classic.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/bellam-avakaya-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/bellam-avakaya.jpg</image:loc>
+      <image:title>Bellam Avakaya Pickle</image:title>
+      <image:caption>Sweet-and-spicy mango avakaya rounded with jaggery.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/chinthakaya-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/chinthakaya-pickle.jpg</image:loc>
+      <image:title>Chinthakaya Pickle</image:title>
+      <image:caption>Young tamarind ground with garlic and red chilli — tangy and bold.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/gongura-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/gongura-pickle.jpg</image:loc>
+      <image:title>Gongura Pickle</image:title>
+      <image:caption>Andhra's iconic sorrel-leaf pickle, slow-cooked the village way.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/karivepaku-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/karivepaku-pickle.jpg</image:loc>
+      <image:title>Karivepaku Pickle</image:title>
+      <image:caption>Curry-leaf pickle with deep, herbal warmth — pairs beautifully with idli.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/kotthimeera-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/kothimeera-pickle.jpg</image:loc>
+      <image:title>Kotthimeera Pickle</image:title>
+      <image:caption>Coriander leaves pounded with tamarind and chilli — fragrant and fresh.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/lemon-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/lemon-pickle.jpg</image:loc>
+      <image:title>Lemon Pickle</image:title>
+      <image:caption>Sun-soaked lemons aged with rock salt and red chilli — bright and zesty.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/pandumirchi-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/pandumirchi-pickle.jpg</image:loc>
+      <image:title>Pandumirchi Pickle</image:title>
+      <image:caption>Plump red-ripe chillies stuffed with mustard masala. Fiery and fragrant.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/tamota-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/tomato-pickle.jpg</image:loc>
+      <image:title>Tamota Pickle</image:title>
+      <image:caption>Sun-ripened tomatoes simmered with garlic, chilli and sesame oil.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/vellulli-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/vellulli-pickle.jpg</image:loc>
+      <image:title>Vellulli Pickle</image:title>
+      <image:caption>Garlic cloves slow-pickled until soft and mellow — pungent comfort.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/vusiri-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/vusiri-pickle.jpg</image:loc>
+      <image:title>Vusiri Pickle</image:title>
+      <image:caption>Indian gooseberry (amla) pickle — bright, sour and rich in vitamin C.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/mutton-boneless-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/mutton-boneless.jpg</image:loc>
+      <image:title>Mutton Boneless Pickle</image:title>
+      <image:caption>Tender boneless mutton in a fragrant blend of home-ground masalas.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/tiger-prawns-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/tiger-prawns.jpg</image:loc>
+      <image:title>Tiger Prawns Pickle</image:title>
+      <image:caption>Plump tiger prawns marinated in mustard and garlic — coastal Andhra classic.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/chicken-bonless-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/chicken-boneless.jpg</image:loc>
+      <image:title>Chicken Boneless Pickle</image:title>
+      <image:caption>Boneless chicken cured with chilli, fenugreek and cold-pressed sesame oil.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/boti-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/boti-pickle.jpg</image:loc>
+      <image:title>Boti Pickle</image:title>
+      <image:caption>Slow-cooked goat boti in a deep, garlicky masala.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/chicken-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/chicken-bone.jpg</image:loc>
+      <image:title>Chicken Pickle</image:title>
+      <image:caption>Bone-in country chicken pickled with chilli and pepper.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/crab-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/crab-pickle.jpg</image:loc>
+      <image:title>Crab Pickle</image:title>
+      <image:caption>Sweet crab meat slow-cooked in spice oil — a coastal indulgence.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/fish-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/fish-pickle.jpg</image:loc>
+      <image:title>Fish Pickle</image:title>
+      <image:caption>Firm fish chunks cured in chilli and tamarind — bright and savoury.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/korameenu-fish-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/korameenu.jpg</image:loc>
+      <image:title>Korameenu Fish Pickle</image:title>
+      <image:caption>Prized korameenu fish in a slow-simmered Andhra spice base.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/mutton-bon-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/mutton-bone.jpg</image:loc>
+      <image:title>Mutton Bone Pickle</image:title>
+      <image:caption>Bone-in mutton pickled the traditional way — rich and deeply flavourful.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/mutton-keema-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/mutton-keema.jpg</image:loc>
+      <image:title>Mutton Keema Pickle</image:title>
+      <image:caption>Minced mutton sautéed with onion, ginger and roasted spice.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/natukodi-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/natukodi-pickle.jpg</image:loc>
+      <image:title>Natukodi Pickle</image:title>
+      <image:caption>Free-range country chicken in a robust home masala.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/nethallu-fish-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/nethallu.jpg</image:loc>
+      <image:title>Nethallu Fish Pickle</image:title>
+      <image:caption>Tiny nethallu fish, crisp-tempered and steeped in spice oil.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/pandugappa-fish-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/pandugappa.jpg</image:loc>
+      <image:title>Pandugappa Fish Pickle</image:title>
+      <image:caption>Meaty pandugappa cured with mustard, garlic and chilli.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/small-prawns-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/small-prawns-pickle.jpg</image:loc>
+      <image:title>Small Prawns Pickle</image:title>
+      <image:caption>Small, sweet prawns simmered in spice oil — packs a punch.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/gongura-natukodi-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/gongura-natukodi.jpg</image:loc>
+      <image:title>Gongura Natukodi Pickle</image:title>
+      <image:caption>Country chicken slow-cooked in tangy gongura with traditional Andhra spice.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/boti-gongura-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/boti-gongura.jpg</image:loc>
+      <image:title>Boti Gongura Pickle</image:title>
+      <image:caption>Slow-simmered boti with sorrel leaves — rich, rustic, deeply flavourful.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/gongura-chicken-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/gongura-chicken.jpg</image:loc>
+      <image:title>Gongura Chicken Pickle</image:title>
+      <image:caption>Boneless chicken folded into tart gongura masala.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/gongura-mutton-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/gongura-mutton.jpg</image:loc>
+      <image:title>Gongura Mutton Pickle</image:title>
+      <image:caption>Tender mutton in a deeply sour gongura base — generations-old recipe.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/gongura-prawns-pickle/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/gongura-prawns.jpg</image:loc>
+      <image:title>Gongura Prawns Pickle</image:title>
+      <image:caption>Sweet prawns set against the sharp tang of fresh sorrel leaves.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/idly-karam/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/idly-karam.jpg</image:loc>
+      <image:title>Idly Karam</image:title>
+      <image:caption>Roasted-lentil idli powder — toss with sesame oil for breakfast bliss.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/kandi-karam/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/kandi-karam.jpg</image:loc>
+      <image:title>Kandi Karam</image:title>
+      <image:caption>Toor-dal podi with chilli and curry leaf — earthy and warming.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/karivepaku-karam/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/karivepaku-karam.jpg</image:loc>
+      <image:title>Karivepaku Karam</image:title>
+      <image:caption>Curry-leaf-forward podi that turns a bowl of rice into a meal.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/munagaku-karam/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/munagaku-karam.jpg</image:loc>
+      <image:title>Munagaku Karam</image:title>
+      <image:caption>Drumstick-leaf podi — nutritious, nutty and quietly fiery.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/nallakaram/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/nalla-karam.jpg</image:loc>
+      <image:title>Nallakaram</image:title>
+      <image:caption>The classic black podi — toasted urad and red chilli.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/nuvvula-karam/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/nuvvula-karam.jpg</image:loc>
+      <image:title>Nuvvula Karam</image:title>
+      <image:caption>Sesame-rich podi with deep, roasted aroma.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/palli-karam/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/palli-karam.jpg</image:loc>
+      <image:title>Palli Karam</image:title>
+      <image:caption>Peanut podi — crunchy, mildly hot, kid-friendly.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/best-chakralu-snacks/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/chakralu.jpg</image:loc>
+      <image:title>Chakralu</image:title>
+      <image:caption>Spiral rice-flour crisps with sesame and ajwain.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/bundi-mixture/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/bundi-mixture.jpg</image:loc>
+      <image:title>Bundi Mixture</image:title>
+      <image:caption>Crisp boondi tossed with peanuts, sev and curry leaves.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/chegodilu/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/chegodilu.jpg</image:loc>
+      <image:title>Chegodilu</image:title>
+      <image:caption>Ring-shaped Andhra snack with a satisfying crunch.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/janthikalu/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/janthikalu.jpg</image:loc>
+      <image:title>Janthikalu</image:title>
+      <image:caption>Classic chakli — pressed, golden, and gently spiced.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/lavu-karappusa/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/lavu-karappusa.jpg</image:loc>
+      <image:title>Lavu Karappusa</image:title>
+      <image:caption>Thick sev with pepper and ajwain — a tea-time favourite.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/pappu-chegodilu/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/pappu-chegodilu.jpg</image:loc>
+      <image:title>Pappu Chegodilu</image:title>
+      <image:caption>Lentil-rich chegodilu with extra bite.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/ribbon-pakodi/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/ribbon-pakodi.jpg</image:loc>
+      <image:title>Ribbon Pakodi</image:title>
+      <image:caption>Flat, brittle ribbon murukku — addictive in the best way.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/sanna-karappusa/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/sanna-karappusa.jpg</image:loc>
+      <image:title>Sanna Karappusa</image:title>
+      <image:caption>Fine sev with mild chilli — perfect over chaat or curd-rice.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/bellam-gavvalu/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/bellam-gavvalu.jpg</image:loc>
+      <image:title>Bellam Gavvalu</image:title>
+      <image:caption>Shell-shaped sweet coated in jaggery syrup — crunchy and caramelly.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/bundi-chikki/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/boondi-chikki.jpg</image:loc>
+      <image:title>Boondi Chikki</image:title>
+      <image:caption>Crisp boondi locked in jaggery — a nostalgic teatime sweet.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/ghee-mysorepak/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/ghee-mysorepak.jpg</image:loc>
+      <image:title>Ghee Mysorepak</image:title>
+      <image:caption>Soft, ghee-laden Mysore pak that melts on the tongue.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/gottam-kaja/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/gottam-kaja.jpg</image:loc>
+      <image:title>Gottam Kaja</image:title>
+      <image:caption>Hollow, syrup-soaked kaja with shatter-crisp layers.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/madatha-kaja/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/kaja.jpg</image:loc>
+      <image:title>Madatha Kaja</image:title>
+      <image:caption>Layered, flaky kaja drenched in light sugar syrup.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/kaju-burfi/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/kaju-burfi.jpg</image:loc>
+      <image:title>Kaju Burfi</image:title>
+      <image:caption>Pure cashew burfi — soft, fragrant, and lightly cardamomed.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/kaju-chikki/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/kaju-chikki.jpg</image:loc>
+      <image:title>Kaju Chikki</image:title>
+      <image:caption>Cashews set in clear jaggery brittle.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/mysore-pak/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/mysore-pak.jpg</image:loc>
+      <image:title>Mysore Pak</image:title>
+      <image:caption>The grainy, ghee-rich original — comforting and classic.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/nethi-ariselu/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/nethi-ariselu.jpg</image:loc>
+      <image:title>Nethi Ariselu</image:title>
+      <image:caption>Jaggery and rice-flour discs fried in ghee — a festival staple.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/nethi-sunnundalu/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/nethi-sunnundalu.jpg</image:loc>
+      <image:title>Nethi Sunnundalu</image:title>
+      <image:caption>Roasted urad-dal laddus bound with ghee and jaggery.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/nuvvula-chikki/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/nuvvula-chikki.jpg</image:loc>
+      <image:title>Nuvvula Chikki</image:title>
+      <image:caption>Sesame brittle with jaggery — wholesome and crunchy.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/palli-chikki/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/palli-chikki.jpg</image:loc>
+      <image:title>Palli Chikki</image:title>
+      <image:caption>Peanut and jaggery brittle — the snack you grew up on.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/ravva-laddu/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/ravva-laddu.jpg</image:loc>
+      <image:title>Ravva Laddu</image:title>
+      <image:caption>Semolina laddus with cashew, cardamom and ghee — homely and rich.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/bellam-dry-fruit-putharekulu-pack-of-10pcs/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/bellam-dryfruit-putharekulu.jpg</image:loc>
+      <image:title>Bellam Dry Fruit Putharekulu</image:title>
+      <image:caption>Paper-thin rice sheets layered with jaggery and dry fruits (pack of 10).</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/bellam-putharekulu-pack-of-10pcs/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/bellam-putharekulu.jpg</image:loc>
+      <image:title>Bellam Putharekulu</image:title>
+      <image:caption>Atreyapuram's iconic paper sweet, layered with jaggery (pack of 10).</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/sugar-dry-fruit-putharekulu-pack-of-10pcs/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/sugar-dryfruit-putharekulu.jpg</image:loc>
+      <image:title>Sugar Dry Fruit Putharekulu</image:title>
+      <image:caption>Sugar-and-dry-fruit version of the famous paper-thin sweet (pack of 10).</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/sugar-putharekulu-pack-of-10pcs/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/sugar-putharekulu.jpg</image:loc>
+      <image:title>Sugar Putharekulu</image:title>
+      <image:caption>Delicate sugar-dusted putharekulu, hand-rolled from scratch (pack of 10).</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://palletoorivuragayalu.in/product/nonveg-pickles-combo-pack/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://palletoorivuragayalu.in/images/products/nonveg-combo.jpg</image:loc>
+      <image:title>Non-Veg Pickles Combo Pack</image:title>
+      <image:caption>A curated tasting of our best non-veg pickles — perfect to gift.</image:caption>
+    </image:image>
+  </url>
+</urlset>

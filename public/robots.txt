@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /order-success/
+Disallow: /track/
+Disallow: /*?add-to-cart=
+
+Sitemap: https://palletoorivuragayalu.in/sitemap.xml
