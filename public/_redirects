@@ -20,10 +20,9 @@
 /terms-and-conditions/   /              301
 /terms-and-conditions    /              301
 
-# SPA fallback is handled by Cloudflare Pages' built-in behavior:
-# - Static files (assets, images, robots.txt, etc.) are served directly
-# - Unknown paths return the contents of 404.html (which we build as a copy of
-#   index.html via the `postbuild` script in package.json)
-# - React Router then renders the right page based on the URL
-# Do NOT add a wildcard "/* → /" rule here — Cloudflare's drag-drop deploy
-# applies it before static-file matching, which hides assets behind index.html.
+# SPA fallback — serve index.html with 200 for any path that doesn't match a
+# pre-rendered static file (e.g. /checkout, /cart, /track, /admin/*).
+# Cloudflare Pages evaluates _redirects AFTER matching real files, so static
+# assets (JS, CSS, images) are still served directly — this only fires for
+# unmatched paths.
+/* /index.html 200
