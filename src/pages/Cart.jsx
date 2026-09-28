@@ -3,8 +3,8 @@ import { Minus, Plus, Trash2, ShoppingBag, ArrowRight } from "lucide-react";
 import { useCart } from "../cart/CartContext";
 import Seo from "../components/seo/Seo";
 
-const SHIPPING_THRESHOLD = 2000;
-const SHIPPING_FEE = 100;
+const SHIPPING_THRESHOLD = 999;
+const SHIPPING_FEE = 60;
 
 export default function Cart() {
   const { items, subtotal, updateQty, removeItem } = useCart();

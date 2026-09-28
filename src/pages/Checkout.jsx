@@ -6,8 +6,8 @@ import { openRazorpayCheckout } from "../lib/razorpay";
 import { api } from "../lib/api";
 import Seo from "../components/seo/Seo";
 
-const SHIPPING_THRESHOLD = 2000;
-const SHIPPING_FEE = 100;
+const SHIPPING_THRESHOLD = 999;
+const SHIPPING_FEE = 60;
 
 const INDIAN_STATES = [
   "Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu", "Kerala",
