@@ -4,7 +4,7 @@ import { useCart } from "../cart/CartContext";
 import Seo from "../components/seo/Seo";
 
 const SHIPPING_THRESHOLD = 999;
-const SHIPPING_FEE = 60;
+const SHIPPING_FEE = 100;
 
 export default function Cart() {
   const { items, subtotal, updateQty, removeItem } = useCart();
